@@ -1,0 +1,43 @@
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+ body {
+ font-family: Arial, sans-serif;
+ background-color: rgb(156, 131, 131);
+ margin: 5px;
+ padding-top: 50px;
+ display: flex;
+ justify-content: center;
+ align: center;
+}
+h1 {
+ font-size: 2.5em;
+ margin-bottom: 10px;
+ color: #333;
+ text-align: center;
+ content: center;
+}
+h2 {
+ font-size: 1.5em;
+ margin-bottom: 20px;
+ color: #555;
+ text-align: center;
+}
+#img-caption {
+    font-size: 2em;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+    content: center;
+}
+
+#tribute-info {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 10px;
+    text-align: center;
+    content: center;
+}
